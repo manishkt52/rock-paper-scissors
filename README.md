@@ -1,3 +1,3 @@
 # rock-paper-scissors
 ### Game Play Screenshot
-playScreenshot.JPG
+![alt text](playScreenshot.JPG)
